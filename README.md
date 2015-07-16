@@ -4,11 +4,6 @@ languages: python
 level: 1
 type: lab
 ---
-### I'm So Busy
-```python
-farmer_tasks = ["Milk the cow", "Churn the butter", "Drive the tractor", "Peel potatoes", "Plant the corn"]
-```
-Use a loop to print out the string "I'm so busy! I need to %s" %(task) for each of the tasks in the `farmer_tasks` list.
 
 ### Add Ten and Divide By Two
 ```
