@@ -1,9 +1,4 @@
----
-tags: kids, lists, iteration, loops
-languages: python
-level: 1
-type: lab
----
+
 
 ### Add Ten and Divide By Two
 ```
