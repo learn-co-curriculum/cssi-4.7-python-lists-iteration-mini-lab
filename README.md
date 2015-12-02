@@ -15,3 +15,5 @@ Use a loop to print out a string with the name reversed for each of the presiden
 
 ### 10 Bottles of Milk on the Wall
 Create an list with the numbers 10 down to 0. Using a loop, for every number print the string "___ bottles of milk on the wall", filling in the blank with the number in your list.
+
+<a href='https://learn.co/lessons/cssi-4.7-python-lists-iteration-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
